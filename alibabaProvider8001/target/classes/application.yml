@@ -1,0 +1,13 @@
+server:
+  port: 8001
+
+spring:
+  application:
+    name: alibaba-provider
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 47.111.224.5:8848
+feign:
+  sentinel:
+    enabled: true

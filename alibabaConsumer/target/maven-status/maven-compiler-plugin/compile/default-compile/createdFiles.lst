@@ -1,0 +1,5 @@
+com\cccc\apiService\ProviderService.class
+com\cccc\controller\ConsumerController.class
+com\cccc\sentinelFallback\SentinelFallback.class
+com\cccc\apiService\fallbackImpl\ProviderServiceImpl.class
+com\cccc\AlibabaConsumerMain80.class
